@@ -1,0 +1,21 @@
+{
+    "name": "com.thousandant.heavencomputerassets",
+    "version": "1.0.0",
+    "displayName": "Heaven Computer Assets",
+    "description": "Assets from Heaven Computer",
+    "unity": "2021.3",
+    "unityRelease": "10f1",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+    "dependencies": {
+   },
+   "keywords": [
+    ],
+    "author": {
+      "name": "",
+      "email": "hello@thousandant.com",
+      "url": "http://thousandant.com"
+    }
+  }
+  
