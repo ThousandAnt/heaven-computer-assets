@@ -9,6 +9,7 @@
     "changelogUrl": "",
     "licensesUrl": "",
     "dependencies": {
+      "com.thousandant.heavencomputerassets" : "ssh://git@ThousandAnt.github.com/heaven-computer-assets/com.thousandant.heavencomputerassets.git"
    },
    "keywords": [
     ],
