@@ -98,8 +98,8 @@ Material:
     - _HologramTiling: 120
     - _Jitter_Intensity: 0.15
     - _Jittery_Frequency: 16
-    - _MatCapFactor: 3.8
-    - _MatCapPower: 3.21
+    - _MatCapFactor: 2.48
+    - _MatCapPower: 5.07
     - _OpaqueCullMode: 2
     - _RenderQueueType: 4
     - _SrcBlend: 1
